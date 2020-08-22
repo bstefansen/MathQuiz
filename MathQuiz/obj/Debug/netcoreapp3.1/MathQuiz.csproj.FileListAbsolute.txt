@@ -1,0 +1,15 @@
+D:\softDev\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.exe
+D:\softDev\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.deps.json
+D:\softDev\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.runtimeconfig.json
+D:\softDev\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.runtimeconfig.dev.json
+D:\softDev\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.dll
+D:\softDev\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.pdb
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csprojAssemblyReference.cache
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.Form1.resources
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csproj.GenerateResource.cache
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.AssemblyInfoInputs.cache
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.AssemblyInfo.cs
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csproj.CoreCompileInputs.cache
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.dll
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.pdb
+D:\softDev\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.genruntimeconfig.cache
